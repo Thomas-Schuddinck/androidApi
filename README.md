@@ -31,7 +31,7 @@ You will automatically be redirected to the API hub, otherwise route to **/swagg
 Clone the repository
 
 ```
-git clone 
+git clone git@github.com:Thomas-Schuddinck/androidApi.git
 ```
 
 Open the project in Visual Studio and build or navigate to the project folder and run. 
